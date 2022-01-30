@@ -204,6 +204,12 @@ nav .up-arrow:hover {
   font-size: 1.33em;
 }
 
+.main h3 {
+  color: var(--clr-offwhite);
+  font-weight: 300;
+  margin-top: 0.5em;
+}
+
 @media (min-width: 725px) {
   .main h1 {
     font-size: 6em;
