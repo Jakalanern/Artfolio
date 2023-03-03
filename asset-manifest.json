@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Artfolio/static/css/main.475d2a9d.css",
+    "main.js": "/Artfolio/static/js/main.79d4a3f2.js",
+    "static/js/787.9109952f.chunk.js": "/Artfolio/static/js/787.9109952f.chunk.js",
+    "static/media/7.png": "/Artfolio/static/media/7.64adac9818aa472a6100.png",
+    "static/media/8.png": "/Artfolio/static/media/8.ed3adaa7382187e8204a.png",
+    "static/media/9.png": "/Artfolio/static/media/9.6e880892fab45c5fd9a5.png",
+    "static/media/11.png": "/Artfolio/static/media/11.3d1f90030b815c724c07.png",
+    "static/media/12.png": "/Artfolio/static/media/12.c9d859aa75fd6bfd8cbe.png",
+    "static/media/4.png": "/Artfolio/static/media/4.48f62305a0ca045f1a96.png",
+    "static/media/5.png": "/Artfolio/static/media/5.31662c705ffef7e38736.png",
+    "static/media/10.png": "/Artfolio/static/media/10.184a79cafbf611e4352b.png",
+    "static/media/1.png": "/Artfolio/static/media/1.fe068f94dd30f82a1a24.png",
+    "static/media/3.png": "/Artfolio/static/media/3.fb674b40bbb8ecbd510c.png",
+    "static/media/6.png": "/Artfolio/static/media/6.11ccd1a1e567afaef7af.png",
+    "static/media/2.png": "/Artfolio/static/media/2.38a6eab0c9a6b634655e.png",
+    "index.html": "/Artfolio/index.html",
+    "main.475d2a9d.css.map": "/Artfolio/static/css/main.475d2a9d.css.map",
+    "main.79d4a3f2.js.map": "/Artfolio/static/js/main.79d4a3f2.js.map",
+    "787.9109952f.chunk.js.map": "/Artfolio/static/js/787.9109952f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475d2a9d.css",
+    "static/js/main.79d4a3f2.js"
+  ]
+}
