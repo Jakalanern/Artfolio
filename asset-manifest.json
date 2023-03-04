@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Artfolio/static/css/main.475d2a9d.css",
-    "main.js": "/Artfolio/static/js/main.79d4a3f2.js",
+    "main.css": "/Artfolio/static/css/main.5cd3d622.css",
+    "main.js": "/Artfolio/static/js/main.85b7771a.js",
     "static/js/787.9109952f.chunk.js": "/Artfolio/static/js/787.9109952f.chunk.js",
     "static/media/7.png": "/Artfolio/static/media/7.64adac9818aa472a6100.png",
     "static/media/8.png": "/Artfolio/static/media/8.ed3adaa7382187e8204a.png",
@@ -16,12 +16,12 @@
     "static/media/6.png": "/Artfolio/static/media/6.11ccd1a1e567afaef7af.png",
     "static/media/2.png": "/Artfolio/static/media/2.38a6eab0c9a6b634655e.png",
     "index.html": "/Artfolio/index.html",
-    "main.475d2a9d.css.map": "/Artfolio/static/css/main.475d2a9d.css.map",
-    "main.79d4a3f2.js.map": "/Artfolio/static/js/main.79d4a3f2.js.map",
+    "main.5cd3d622.css.map": "/Artfolio/static/css/main.5cd3d622.css.map",
+    "main.85b7771a.js.map": "/Artfolio/static/js/main.85b7771a.js.map",
     "787.9109952f.chunk.js.map": "/Artfolio/static/js/787.9109952f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.475d2a9d.css",
-    "static/js/main.79d4a3f2.js"
+    "static/css/main.5cd3d622.css",
+    "static/js/main.85b7771a.js"
   ]
 }
