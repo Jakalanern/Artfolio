@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Artfolio/static/css/main.101440fb.css",
-    "main.js": "/Artfolio/static/js/main.f0a808ae.js",
+    "main.css": "/Artfolio/static/css/main.f33065ff.css",
+    "main.js": "/Artfolio/static/js/main.0436cfee.js",
     "static/js/787.9109952f.chunk.js": "/Artfolio/static/js/787.9109952f.chunk.js",
     "static/media/7.png": "/Artfolio/static/media/7.64adac9818aa472a6100.png",
     "static/media/8.png": "/Artfolio/static/media/8.ed3adaa7382187e8204a.png",
@@ -16,12 +16,12 @@
     "static/media/6.png": "/Artfolio/static/media/6.11ccd1a1e567afaef7af.png",
     "static/media/2.png": "/Artfolio/static/media/2.38a6eab0c9a6b634655e.png",
     "index.html": "/Artfolio/index.html",
-    "main.101440fb.css.map": "/Artfolio/static/css/main.101440fb.css.map",
-    "main.f0a808ae.js.map": "/Artfolio/static/js/main.f0a808ae.js.map",
+    "main.f33065ff.css.map": "/Artfolio/static/css/main.f33065ff.css.map",
+    "main.0436cfee.js.map": "/Artfolio/static/js/main.0436cfee.js.map",
     "787.9109952f.chunk.js.map": "/Artfolio/static/js/787.9109952f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.101440fb.css",
-    "static/js/main.f0a808ae.js"
+    "static/css/main.f33065ff.css",
+    "static/js/main.0436cfee.js"
   ]
 }
